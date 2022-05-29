@@ -1,4 +1,4 @@
-### Olá eu sou Programador Programador Front-End / Full-Stack web 👋
+### Olá eu sou Programador Front-End / Full-Stack web 👋
 
 ##
 
