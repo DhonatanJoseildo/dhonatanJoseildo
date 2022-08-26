@@ -1,7 +1,15 @@
 ### Hello, I'm Front-End/Full-Stack Web Programmer 👋
 I'm studying web development at .[Rocketseat].(https://app.rocketseat.com.br/me/dhonatan-joseildo-de-lima-03188)
-##
 
+### Current stack
+- main language: 'Javascript'
+- Backend: 'Node.js'
+- Frontend: 'Reactjs', 'HTML5', 'CSS3', 'Javascript'
+- Layout Design: 'Figma'
+- Version code control: 'Git & Github'
+- Tools: 'VsCode', 'Markdown'
+- I'm mostly active Within the 'Rocketseat Community'
+##
 <div>
   <a href="https://github.com/DhonatanJoseildo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhonatanJoseildo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
