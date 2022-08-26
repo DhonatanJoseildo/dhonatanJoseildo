@@ -1,6 +1,5 @@
 ### Hello, I'm Front-End/Full-Stack Web Programmer 👋
-I'm studying web development at .[Rocketseat].((https://app.rocketseat.com.br/me/dhonatan-joseildo-de-lima-03188))
-
+I'm studying web development at .[Rocketseat].(https://app.rocketseat.com.br/me/dhonatan-joseildo-de-lima-03188)
 ##
 
 <div>
